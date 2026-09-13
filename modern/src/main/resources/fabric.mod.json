@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "fpvdrone",
+  "version": "${version}",
+  "name": "Minecraft FPV — 26.2 Port",
+  "description": "Unofficial port in development of Minecraft FPV by gluecode.",
+  "authors": ["gluecode", "Leitirocket (port)"],
+  "license": "GPL-3.0-only",
+  "environment": "client",
+  "entrypoints": {"client": ["com.gluecode.fpvdrone.modern.FpvClient"]},
+  "depends": {"fabricloader": ">=0.19.5", "minecraft": "26.2", "java": ">=25", "fabric-api": "*"}
+}
