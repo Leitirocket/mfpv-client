@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "com.gluecode.fpvdrone.modern.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": ["EntityCollisionAccess", "LocalPlayerMixin", "MouseMixin", "CameraMixin"],
+  "injectors": {"defaultRequire": 1}
+}

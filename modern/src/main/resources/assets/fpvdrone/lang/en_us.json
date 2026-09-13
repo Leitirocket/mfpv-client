@@ -1,0 +1,13 @@
+{
+  "key.category.fpvdrone.controls": "Minecraft FPV",
+  "key.fpvdrone.arm": "Arm / disarm drone",
+  "key.fpvdrone.settings": "FPV settings",
+  "key.fpvdrone.throttle_up": "Throttle up",
+  "key.fpvdrone.throttle_down": "Throttle down",
+  "key.fpvdrone.yaw_left": "Yaw left",
+  "key.fpvdrone.yaw_right": "Yaw right",
+  "key.fpvdrone.pitch_forward": "Pitch forward",
+  "key.fpvdrone.pitch_back": "Pitch back",
+  "key.fpvdrone.roll_left": "Roll left",
+  "key.fpvdrone.roll_right": "Roll right"
+}
