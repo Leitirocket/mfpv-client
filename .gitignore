@@ -13,6 +13,7 @@ proguard.jar
 proguardconf
 version.json
 settings.gradle
+!modern/settings.gradle
 .DS_Store
 .vscode
 bin
